@@ -1,0 +1,11 @@
+C:\Users\Javier\Documents\SEMESTRES\10mo Semestre\Aseguramiento de la Calidad del Software\DemoEstudiante2\Estudiantes\bin\Debug\net8.0\Estudiantes.deps.json
+C:\Users\Javier\Documents\SEMESTRES\10mo Semestre\Aseguramiento de la Calidad del Software\DemoEstudiante2\Estudiantes\bin\Debug\net8.0\Estudiantes.dll
+C:\Users\Javier\Documents\SEMESTRES\10mo Semestre\Aseguramiento de la Calidad del Software\DemoEstudiante2\Estudiantes\bin\Debug\net8.0\Estudiantes.pdb
+C:\Users\Javier\Documents\SEMESTRES\10mo Semestre\Aseguramiento de la Calidad del Software\DemoEstudiante2\Estudiantes\obj\Debug\net8.0\Estudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\SEMESTRES\10mo Semestre\Aseguramiento de la Calidad del Software\DemoEstudiante2\Estudiantes\obj\Debug\net8.0\Estudiantes.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\SEMESTRES\10mo Semestre\Aseguramiento de la Calidad del Software\DemoEstudiante2\Estudiantes\obj\Debug\net8.0\Estudiantes.AssemblyInfo.cs
+C:\Users\Javier\Documents\SEMESTRES\10mo Semestre\Aseguramiento de la Calidad del Software\DemoEstudiante2\Estudiantes\obj\Debug\net8.0\Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\SEMESTRES\10mo Semestre\Aseguramiento de la Calidad del Software\DemoEstudiante2\Estudiantes\obj\Debug\net8.0\Estudiantes.dll
+C:\Users\Javier\Documents\SEMESTRES\10mo Semestre\Aseguramiento de la Calidad del Software\DemoEstudiante2\Estudiantes\obj\Debug\net8.0\refint\Estudiantes.dll
+C:\Users\Javier\Documents\SEMESTRES\10mo Semestre\Aseguramiento de la Calidad del Software\DemoEstudiante2\Estudiantes\obj\Debug\net8.0\Estudiantes.pdb
+C:\Users\Javier\Documents\SEMESTRES\10mo Semestre\Aseguramiento de la Calidad del Software\DemoEstudiante2\Estudiantes\obj\Debug\net8.0\ref\Estudiantes.dll
